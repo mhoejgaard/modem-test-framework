@@ -1,4 +1,4 @@
-# PLMN Regression Project
+# Modem Test Framework
 
 This project implements a number of test cases that provide a regression framework for checking modem status, registration and connectivity. 
 
